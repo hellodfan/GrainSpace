@@ -2,9 +2,10 @@
 
 # GrainSpace
 
-Paper  [*GrainSpace*: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains](https://arxiv.org/pdf/2203.05306.pdf)
+Paper  [*GrainSpace*: A Large-scale Dataset for Fine-grained and Domain-adaptive Recognition of Cereal Grains](https://arxiv.org/pdf/2203.05306.pdf), CVPR2022.
 
-Work done when interning in [Gaozhe Technology](http://gaozhe.com.cn/) <img src="./figs/gaozhe_logo.png" style="zoom:5%;" />
+dataset download URL: https://grainnet.github.io/GrainSpace.html
+
 
 ## Introduction
 
